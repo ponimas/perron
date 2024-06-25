@@ -1,6 +1,8 @@
 [![Build Status](https://github.com/zalando-incubator/perron/workflows/CI/badge.svg?branch=master)](https://github.com/zalando-incubator/perron/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# Attention! This project is no longer supported.
+
 # Perron
 
 A sane client for web services with a built-in circuit-breaker, support for filtering both request and response.
